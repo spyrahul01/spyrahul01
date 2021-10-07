@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @spyrahul01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... Basic responsive web design
+- 💞️ I’m looking to collaborate on ... any web designing projects.
+- 📫 How to reach me ... Email:-spyrahul01@gmail.com
 
 <!---
 spyrahul01/spyrahul01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
